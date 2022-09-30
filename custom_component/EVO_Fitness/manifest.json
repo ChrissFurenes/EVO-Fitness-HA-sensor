@@ -1,0 +1,9 @@
+{
+    "domain": "EVO_Fitness",
+    "name": "EVO Fitness",
+    "documentation": "https://github.com/7364985763/EVO-Fitness-HA-sensor",
+    "codeowners": ["@7364985763"],
+    "requirements": [],
+    "iot_class": "cloud_polling",
+    "version": "0.0.1"
+  }
